@@ -10,7 +10,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <img
-                src="/WhatsApp Image 2025-10-04 at 2.44.31 PM.jpeg"
+                src="/logo.jpeg"
                 alt="Yashwin Motor Traders"
                 className="h-10 w-auto"
               />
