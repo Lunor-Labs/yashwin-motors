@@ -24,7 +24,7 @@ export default function Navigation() {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-3 cursor-pointer" onClick={() => scrollToSection('hero')}>
             <img
-              src="/logo.jpeg"
+              src="/yashwin-motors/logo.jpeg"
               alt="Yashwin Motor Traders"
               className="h-12 w-auto"
             />

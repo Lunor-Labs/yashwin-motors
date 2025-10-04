@@ -55,7 +55,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-bold text-xl text-black mb-2">Visit Us</h3>
-                  <p className="text-gray-600">123 Motor Trade Plaza, Downtown District<br />Colombo, Sri Lanka</p>
+                  <p className="text-gray-600">Yashwin Motor Traders, Tangalle, Sri Lanka</p>
                 </div>
               </div>
 
@@ -65,7 +65,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-bold text-xl text-black mb-2">Call Us</h3>
-                  <p className="text-gray-600">+94 77 123 4567<br />+94 11 234 5678</p>
+                  <p className="text-gray-600">+94 77 517 0863</p>
                 </div>
               </div>
 
@@ -75,7 +75,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-bold text-xl text-black mb-2">Email Us</h3>
-                  <p className="text-gray-600">info@yashwinmotors.com<br />sales@yashwinmotors.com</p>
+                  <p className="text-gray-600">phdilanranahansa@gmail.com</p>
                 </div>
               </div>
 
@@ -85,9 +85,9 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-bold text-xl text-black mb-2">WhatsApp</h3>
-                  <p className="text-gray-600">+94 77 123 4567</p>
+                  <p className="text-gray-600">+94 77 517 0863</p>
                   <a
-                    href="https://wa.me/94771234567"
+                    href="https://wa.me/94775170863"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block mt-2 text-green-600 hover:text-green-700 font-semibold"
@@ -99,7 +99,7 @@ export default function Contact() {
 
               <div className="mt-8 rounded-sm overflow-hidden shadow-lg h-64">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.798467135316!2d79.8612!3d6.9271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwNTUnMzcuNiJOIDc5wrA1MSc0MC4zIkU!5e0!3m2!1sen!2slk!4v1234567890"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d75631.5286405551!2d80.73805926099881!3d6.038705541692926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae14afd19b00141%3A0x4045d305f7526bba!2sTangalle!5e0!3m2!1sen!2slk!4v1759572011296!5m2!1sen!2slk"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
